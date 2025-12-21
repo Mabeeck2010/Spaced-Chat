@@ -8,8 +8,9 @@
 		"Mabeeck"
 	],
 	"contact": {
+		"homepage": "https://github.com/Mabeeck/Spaced-Chat"
 	},
-	"license": "The Unlicense",
+	"license": "Unlicense",
 	"environment": "client",
 	"entrypoints": {
 		"main": [
@@ -21,7 +22,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.16.5",
-		"minecraft": "<=1.21.7 >=1.19",
+		"minecraft": "<=1.21.11 >=1.19",
 		"java": ">=17"
 	},
 	"suggests": {
